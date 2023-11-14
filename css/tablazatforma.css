@@ -1,0 +1,32 @@
+table, td{
+    /*fekete összefüggő vonaló keret*/
+    border: 1px solid black;
+    border-collapse: collapse;
+}/*keret összevonás*/
+/* szöveg elemek középre rendezése
+td{
+    text-align: center;
+}*/
+
+body{
+
+    background-color: grey;
+}
+
+
+
+#zold{
+    background-color: green;
+}
+
+#kek{
+    background-color: blue;
+}
+
+#sarga{
+    background-color: yellow;
+}
+
+#piros{
+    background-color: red;
+}

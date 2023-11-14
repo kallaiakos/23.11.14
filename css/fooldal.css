@@ -1,0 +1,24 @@
+.feher{
+    background-color: white ;
+}
+
+#masodik{
+    margin-left: 10px;
+    margin:  0px 0px 0px 10px;
+
+    border-top: dotted 1px black;
+    border-bottom: dashed blue 1px;
+
+    border-left: yellow solid 1px;
+    border-right: darkgreen double 1px;
+}
+#harmadik{
+    border: 3px red dashed;
+    padding: 15px;
+}
+#negyedik{
+    background-image:url(kep2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
